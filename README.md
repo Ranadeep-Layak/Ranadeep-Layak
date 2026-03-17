@@ -16,7 +16,7 @@ name: Ranadeep Layak
 role: Full-Stack Developer & ML Enthusiast
 location: India 🇮🇳
 currently_working_on: Exciting web & AI projects
-learning: Deep Learning, Advanced React, Cloud
+learning: Deep Learning (CNNs & NLP), React 18, AWS
 interests:
   - Web Development
   - Machine Learning & AI
