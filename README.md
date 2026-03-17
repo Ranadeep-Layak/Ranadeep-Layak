@@ -86,6 +86,7 @@ fun_fact: I turn coffee ☕ into code 💻
 
 <a href="https://github.com/Ranadeep-Layak?tab=achievements">
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="100" alt="Pair Extraordinaire" title="Pair Extraordinaire"/>
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="100" alt="Yolo" title="Yolo"/>
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="100" alt="Pull Shark" title="Pull Shark"/>
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100" alt="Quickdraw" title="Quickdraw"/>
 </a>
