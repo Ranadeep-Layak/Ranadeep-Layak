@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Animated typing banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Ranadeep+👋;Full-Stack+Developer+🚀;ML+%26+AI+Enthusiast+🤖;Open+Source+Contributor+💡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Ranadeep+👋;Full-Stack+Developer+🚀;Game+Developer+🎮;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+💡)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Ranadeep%20Layak&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20ML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Ranadeep%20Layak&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AIML%20Enthusiast%20%7C%20Game%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
 </div>
 
@@ -13,11 +13,12 @@
 
 ```yaml
 name: Ranadeep Layak
-role: Full-Stack Developer & ML Enthusiast
-location: India 🇮🇳
+role: Full-Stack Developer, Game Developer & AIML Enthusiast
+location: India 
 currently_working_on: Exciting web & AI projects
 learning: Deep Learning (CNNs & NLP), React 18, AWS
 interests:
+  - Game Development
   - Web Development
   - Machine Learning & AI
   - Open Source
@@ -87,10 +88,9 @@ fun_fact: I turn coffee ☕ into code 💻
 
 <div align="center">
 
-[![code-frost](https://github-readme-stats.vercel.app/api/pin/?username=Ranadeep-Layak&repo=code-frost&theme=tokyonight&hide_border=true)](https://github.com/Ranadeep-Layak/code-frost)
-[![portfolio-website](https://github-readme-stats.vercel.app/api/pin/?username=Ranadeep-Layak&repo=portfolio-website&theme=tokyonight&hide_border=true)](https://github.com/Ranadeep-Layak/portfolio-website)
-
 [![Text-Classification](https://github-readme-stats.vercel.app/api/pin/?username=Ranadeep-Layak&repo=Text-Classification&theme=tokyonight&hide_border=true)](https://github.com/Ranadeep-Layak/Text-Classification)
+
+[![code-frost](https://github-readme-stats.vercel.app/api/pin/?username=Ranadeep-Layak&repo=code-frost&theme=tokyonight&hide_border=true)](https://github.com/Ranadeep-Layak/code-frost)
 
 </div>
 
