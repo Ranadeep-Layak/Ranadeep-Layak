@@ -117,7 +117,7 @@ fun_fact: I turn coffee ☕ into code 💻
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ranadeep-Layak)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranadeep-layak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-ranadeep-layak)
 
 </div>
 
@@ -127,7 +127,7 @@ fun_fact: I turn coffee ☕ into code 💻
 
 ### 👀 Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Ranadeep-Layak&color=blueviolet&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=Ranadeep-Layak&color=blueviolet&style=flat-square&label=Profile+Visitors+Count)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
 
