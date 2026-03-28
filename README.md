@@ -67,7 +67,7 @@ fun_fact: I turn coffee ☕ into code 💻
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ranadeep-Layak&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ranadeep-Layak&theme=tokyonight&hide_border=true&show_icons=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranadeep-Layak&theme=tokyonight&hide_border=true&layout=compact"/>
 
 </div>
@@ -99,8 +99,8 @@ fun_fact: I turn coffee ☕ into code 💻
 
 <div align="center">
 
-<a href="https://github.com/Ranadeep-Layak/Text-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ranadeep-Layak&repo=Text-Classification&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Ranadeep-Layak/code-frost"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ranadeep-Layak&repo=code-frost&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Ranadeep-Layak/Text-Classification"><img src="https://opengraph.githubassets.com/1/Ranadeep-Layak/Text-Classification" width="45%" alt="Text-Classification"/></a>
+<a href="https://github.com/Ranadeep-Layak/code-frost"><img src="https://opengraph.githubassets.com/1/Ranadeep-Layak/code-frost" width="45%" alt="code-frost"/></a>
 
 </div>
 
