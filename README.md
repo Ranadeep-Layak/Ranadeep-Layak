@@ -68,7 +68,7 @@ fun_fact: I turn coffee ☕ into code 💻
 <div align="center">
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ranadeep-Layak&theme=tokyonight"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ranadeep-Layak&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranadeep-Layak&theme=tokyonight&hide_border=true&layout=compact"/>
 
 </div>
 
@@ -99,9 +99,8 @@ fun_fact: I turn coffee ☕ into code 💻
 
 <div align="center">
 
-[![Text-Classification](https://github-readme-stats.vercel.app/api/pin/?username=Ranadeep-Layak&repo=Text-Classification&theme=tokyonight&hide_border=true)](https://github.com/Ranadeep-Layak/Text-Classification)
-
-[![code-frost](https://github-readme-stats.vercel.app/api/pin/?username=Ranadeep-Layak&repo=code-frost&theme=tokyonight&hide_border=true)](https://github.com/Ranadeep-Layak/code-frost)
+<a href="https://github.com/Ranadeep-Layak/Text-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ranadeep-Layak&repo=Text-Classification&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Ranadeep-Layak/code-frost"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ranadeep-Layak&repo=code-frost&theme=tokyonight&hide_border=true" /></a>
 
 </div>
 
