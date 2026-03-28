@@ -65,9 +65,11 @@ fun_fact: I turn coffee ☕ into code 💻
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ranadeep-Layak&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranadeep-Layak&theme=tokyonight&hide_border=true&layout=compact"/>
-</div>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ranadeep-Layak&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranadeep-Layak&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+
 
 
 <div align="center">
