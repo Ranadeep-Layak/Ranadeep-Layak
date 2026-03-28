@@ -99,8 +99,8 @@ fun_fact: I turn coffee ☕ into code 💻
 
 <div align="center">
 
-<a href="https://github.com/Ranadeep-Layak/Text-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ranadeep-Layak&repo=Text-Classification&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Ranadeep-Layak/code-frost"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ranadeep-Layak&repo=code-frost&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Ranadeep-Layak/Text-Classification"><img src="https://opengraph.githubassets.com/1/Ranadeep-Layak/Text-Classification" width="45%" alt="Text-Classification"/></a>
+<a href="https://github.com/Ranadeep-Layak/code-frost"><img src="https://opengraph.githubassets.com/1/Ranadeep-Layak/code-frost" width="45%" alt="code-frost"/></a>
 
 </div>
 
